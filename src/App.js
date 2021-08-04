@@ -91,7 +91,7 @@ const App = () => {
         <Header 
           onAdd={() => setShowAddTask(!showAddTask)}
           showAdd={showAddTask}
-          title='hello'
+          title='My Tasks.'
         />
         
         <Route path='/' exact render={ props => (
