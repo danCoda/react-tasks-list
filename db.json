@@ -2,13 +2,13 @@
   "tasks": [
     {
       "text": "Shower",
-      "day": "234234",
-      "reminder": false,
+      "day": "Today",
+      "reminder": true,
       "id": 4
     },
     {
       "text": "Sleep",
-      "day": "Today",
+      "day": "Tomorrow",
       "reminder": false,
       "id": 5
     }

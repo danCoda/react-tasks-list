@@ -28,6 +28,6 @@ Header.propTypes = {
 }
 
 const headingStyle = {
-    color: 'red'
+    color: '#D40000'
 }
 export default Header;
