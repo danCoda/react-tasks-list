@@ -16,4 +16,4 @@ It has a mock backend server using [json-server](https://www.npmjs.com/package/j
 
 ## What can you do in it?
 
-It's pretty simple; you can add tasks (`ADD`), delete tasks (`DELETE`), and mark tasks (`PUT`). Changes will persist on the server. You can also toggle the new-task form. Also, you can navigate to/from the About page without refreshing the page. Warning: The heading is an eyesore red.  
+It's pretty simple; you can add tasks (`ADD`), delete tasks (`DELETE`), and mark tasks through double-clicking (`PUT`). Changes will persist on the server. You can also toggle the new-task form (using the Add/Close button). Also, you can navigate to/from the About page without refreshing the page. Warning: The heading may be an eyesore red, or a catchy Ferrari Red (['rosso corsa'](https://en.wikipedia.org/wiki/Rosso_corsa)).  
