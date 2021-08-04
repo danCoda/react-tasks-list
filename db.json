@@ -7,10 +7,16 @@
       "reminder": true
     },
     {
-      "id": 3,
+      "text": "Shower",
+      "day": "234234",
+      "reminder": false,
+      "id": 4
+    },
+    {
       "text": "Sleep",
-      "day": "Saturday 18th June",
-      "reminder": false
+      "day": "Today",
+      "reminder": false,
+      "id": 5
     }
   ]
 }
